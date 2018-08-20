@@ -5,6 +5,7 @@ author: "Profesor Francisco Zambrano </br> francisco.zambrano@umayor.cl"
 date: "21 de Agosto 2018"
 output:
   xaringan::moon_reader:
+    encoding: UTF-8
     lib_dir: libs
     css: xaringan-themer.css
     nature:
